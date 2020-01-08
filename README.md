@@ -1,6 +1,6 @@
 #gcp-consul-image
 
-Consul image for GCP, created to work with three server nodes.
+Consul image for GCP usisng Ubuntu 16.04, created to work with three server nodes.
 
 Provision with:
 ```Console
