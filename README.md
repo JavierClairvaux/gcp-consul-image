@@ -1,8 +1,8 @@
-#gcp-consul-image\n
+#gcp-consul-image
 
-Consul image for GCP, created to work with three server nodes.\n
+Consul image for GCP, created to work with three server nodes.
 
-Provision with:\n
+Provision with:
 ```Console
 ./provisioner $NODE_NAME $DC_NAME $NODE_IP $NODE_IP2 $NODE_IP3 $ENCRYPT_KEY
 ```
