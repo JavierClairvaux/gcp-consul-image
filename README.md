@@ -1,4 +1,4 @@
-#gcp-consul-image
+# gcp-consul-image
 
 Consul image for GCP usisng Ubuntu 16.04, created to work with three server nodes.
 
@@ -8,3 +8,10 @@ Provision with:
 ```
 
 $ENCRYPT_KEY is the key for consul gossip encryption.
+
+To create  image run:
+```Console
+$ packer build consul-gcp.json 
+
+```
+
