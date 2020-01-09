@@ -8,6 +8,7 @@ Provision with:
 ```
 
 $ENCRYPT_KEY is the key for consul gossip encryption.
+$PATH_TO_KEY is the same ssh key used on 2.javier-claivaux/gcp-consul-vault-cluster
 
 To create  image run:
 ```Console
